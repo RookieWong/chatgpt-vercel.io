@@ -6,3 +6,11 @@
 .sidebar-record-item:hover .sidebar-record-item-delete {
   display: block;
 }
+
+.bg-gradient {
+  background: linear-gradient(to right, #04a68a, #17aad9);
+}
+
+.text-gradient {
+  --accent-gradient: linear-gradient(to right, #04a68a, #17aad9);
+}
